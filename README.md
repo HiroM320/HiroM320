@@ -1,4 +1,6 @@
-### Hi there 👋
+### 🍉 loves watermelon 🍉
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=hirom320&layout=compact&theme=merko)](https://github-readme-stats.vercel.app/api/top-langs?username=hirom320&layout=compact&theme=merko)
 
 <!--
 **HiroM320/HiroM320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
